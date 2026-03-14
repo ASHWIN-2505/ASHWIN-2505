@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Ashwin 👋
 
-<!--
-**ASHWIN-2505/ASHWIN-2505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **Data Analyst** with experience in Python, SQL, Power BI, and automation workflows.  
+I enjoy transforming raw data into meaningful insights and building data-driven solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+Python  
+SQL  
+Pandas  
+NumPy  
+Matplotlib  
+Seaborn  
+Power BI  
+Data Visualization  
+Exploratory Data Analysis
+
+---
+
+## Projects
+
+### Hotel Booking Demand Analysis
+Exploratory Data Analysis of hotel booking data to identify demand patterns, cancellation drivers, and customer behavior.
+
+🔗 https://github.com/ASHWIN-2505/hotel-booking-demand-analysis
+
+---
+
+### Credit Score Prediction
+Machine learning model to predict credit scores using customer financial data.
+
+---
+
+### NYC Taxi SQL Analysis
+SQL-based analysis of taxi trip data to identify revenue and demand trends.
+
+---
+
+### Regional Sales Dashboard
+Interactive Power BI dashboard analyzing regional sales performance and KPIs.
+
+---
+
+### Automation Email Classification (n8n)
+Automated workflow to classify incoming emails using AI and send alerts through Telegram.
