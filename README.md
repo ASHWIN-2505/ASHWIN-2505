@@ -7,15 +7,16 @@ I enjoy transforming raw data into meaningful insights and building data-driven 
 
 ## Skills
 
-Python  
-SQL  
-Pandas  
-NumPy  
-Matplotlib  
-Seaborn  
-Power BI  
-Data Visualization  
-Exploratory Data Analysis
+Data Analyst
+SQL
+Python
+Excel
+Power BI
+Data Cleaning
+EDA
+Data Visualization
+Dashboard Development
+Business Intelligence
 
 ---
 
